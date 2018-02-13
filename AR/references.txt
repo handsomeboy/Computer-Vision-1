@@ -1,0 +1,3 @@
+Douglas Puecker algorithm reference:
+
+https://www.mathworks.com/matlabcentral/fileexchange/21132-line-simplification
